@@ -59,5 +59,6 @@ Vec3 = Vec1 - Vec2;
 //Mostramos el vector resultante
 cout<<endl<<endl<<"El vector resultante de la resta de vectores es: "<<endl;
 Vec3.ImprimeVector();
+
 return 0;
 }
